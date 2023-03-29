@@ -145,11 +145,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Core.Contracts\\Pezza.Core.Contracts.csproj",
+      "projectUniqueName": "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Core.Contracts\\Pezza.Core.Contracts.csproj",
       "projectName": "Pezza.Core.Contracts",
-      "projectPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Core.Contracts\\Pezza.Core.Contracts.csproj",
+      "projectPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Core.Contracts\\Pezza.Core.Contracts.csproj",
       "packagesPath": "C:\\Users\\vuyisa.baza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Core.Contracts\\obj\\",
+      "outputPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Core.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vuyisa.baza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -166,8 +166,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Common\\Pezza.Common.csproj": {
-              "projectPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Common\\Pezza.Common.csproj"
+            "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Common\\Pezza.Common.csproj": {
+              "projectPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Common\\Pezza.Common.csproj"
             }
           }
         }

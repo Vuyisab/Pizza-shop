@@ -10,3 +10,15 @@ C:\Users\vuyisa.baza\UpSkilling\Pezza\Pezza.Common\obj\Debug\net7.0\Pezza.Common
 C:\Users\vuyisa.baza\UpSkilling\Pezza\Pezza.Common\obj\Debug\net7.0\refint\Pezza.Common.dll
 C:\Users\vuyisa.baza\UpSkilling\Pezza\Pezza.Common\obj\Debug\net7.0\Pezza.Common.pdb
 C:\Users\vuyisa.baza\UpSkilling\Pezza\Pezza.Common\obj\Debug\net7.0\ref\Pezza.Common.dll
+C:\Users\vuyisa.baza\UpSkilling\Dotnet\Pezza\Pizza-shop\Pezza.Common\bin\Debug\net7.0\Pezza.Common.deps.json
+C:\Users\vuyisa.baza\UpSkilling\Dotnet\Pezza\Pizza-shop\Pezza.Common\bin\Debug\net7.0\Pezza.Common.dll
+C:\Users\vuyisa.baza\UpSkilling\Dotnet\Pezza\Pizza-shop\Pezza.Common\bin\Debug\net7.0\Pezza.Common.pdb
+C:\Users\vuyisa.baza\UpSkilling\Dotnet\Pezza\Pizza-shop\Pezza.Common\obj\Debug\net7.0\Pezza.Common.csproj.AssemblyReference.cache
+C:\Users\vuyisa.baza\UpSkilling\Dotnet\Pezza\Pizza-shop\Pezza.Common\obj\Debug\net7.0\Pezza.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuyisa.baza\UpSkilling\Dotnet\Pezza\Pizza-shop\Pezza.Common\obj\Debug\net7.0\Pezza.Common.AssemblyInfoInputs.cache
+C:\Users\vuyisa.baza\UpSkilling\Dotnet\Pezza\Pizza-shop\Pezza.Common\obj\Debug\net7.0\Pezza.Common.AssemblyInfo.cs
+C:\Users\vuyisa.baza\UpSkilling\Dotnet\Pezza\Pizza-shop\Pezza.Common\obj\Debug\net7.0\Pezza.Common.csproj.CoreCompileInputs.cache
+C:\Users\vuyisa.baza\UpSkilling\Dotnet\Pezza\Pizza-shop\Pezza.Common\obj\Debug\net7.0\Pezza.Common.dll
+C:\Users\vuyisa.baza\UpSkilling\Dotnet\Pezza\Pizza-shop\Pezza.Common\obj\Debug\net7.0\refint\Pezza.Common.dll
+C:\Users\vuyisa.baza\UpSkilling\Dotnet\Pezza\Pizza-shop\Pezza.Common\obj\Debug\net7.0\Pezza.Common.pdb
+C:\Users\vuyisa.baza\UpSkilling\Dotnet\Pezza\Pizza-shop\Pezza.Common\obj\Debug\net7.0\ref\Pezza.Common.dll

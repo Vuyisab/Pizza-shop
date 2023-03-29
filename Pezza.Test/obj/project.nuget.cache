@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iGAGFVadu4QA9GNpzKxOzasQZA5r8G2uXLCHIQ4T4YbJELs6BlTLsskn8HJsBnPPY6Cgw2J7JZAYiOAUp5imeA==",
+  "dgSpecHash": "P0WiXE4zpklFJb7sHH+J15Foc1Sdsm5sLsRlIDDWJmlHt46dtyfJ5z9EAXR+yW70yhOukHnh7Et7aAo9hcxh6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Test\\Pezza.Test.csproj",
+  "projectFilePath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Test\\Pezza.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vuyisa.baza\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\vuyisa.baza\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

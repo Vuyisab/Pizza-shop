@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Api\\Api.csproj": {}
+    "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Api\\Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Api\\Api.csproj": {
+    "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Api\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Api\\Api.csproj",
+        "projectUniqueName": "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Api\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Api\\Api.csproj",
+        "projectPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Api\\Api.csproj",
         "packagesPath": "C:\\Users\\vuyisa.baza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Api\\obj\\",
+        "outputPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vuyisa.baza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Core\\Pezza.Core.csproj": {
-                "projectPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Core\\Pezza.Core.csproj"
+              "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Core\\Pezza.Core.csproj": {
+                "projectPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Core\\Pezza.Core.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\vuyisa.baza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vuyisa.baza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -115,8 +115,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Common\\Pezza.Common.csproj": {
-                "projectPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Common\\Pezza.Common.csproj"
+              "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Common\\Pezza.Common.csproj": {
+                "projectPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Common\\Pezza.Common.csproj"
               }
             }
           }
@@ -156,14 +156,14 @@
         }
       }
     },
-    "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Common\\Pezza.Common.csproj": {
+    "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Common\\Pezza.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Common\\Pezza.Common.csproj",
+        "projectUniqueName": "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Common\\Pezza.Common.csproj",
         "projectName": "Pezza.Common",
-        "projectPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Common\\Pezza.Common.csproj",
+        "projectPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Common\\Pezza.Common.csproj",
         "packagesPath": "C:\\Users\\vuyisa.baza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Common\\obj\\",
+        "outputPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vuyisa.baza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -217,14 +217,14 @@
         }
       }
     },
-    "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Core.Contracts\\Pezza.Core.Contracts.csproj": {
+    "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Core.Contracts\\Pezza.Core.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Core.Contracts\\Pezza.Core.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Core.Contracts\\Pezza.Core.Contracts.csproj",
         "projectName": "Pezza.Core.Contracts",
-        "projectPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Core.Contracts\\Pezza.Core.Contracts.csproj",
+        "projectPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Core.Contracts\\Pezza.Core.Contracts.csproj",
         "packagesPath": "C:\\Users\\vuyisa.baza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Core.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Core.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vuyisa.baza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -241,8 +241,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Common\\Pezza.Common.csproj": {
-                "projectPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Common\\Pezza.Common.csproj"
+              "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Common\\Pezza.Common.csproj": {
+                "projectPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Common\\Pezza.Common.csproj"
               }
             }
           }
@@ -282,14 +282,14 @@
         }
       }
     },
-    "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Core\\Pezza.Core.csproj": {
+    "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Core\\Pezza.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Core\\Pezza.Core.csproj",
+        "projectUniqueName": "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Core\\Pezza.Core.csproj",
         "projectName": "Pezza.Core",
-        "projectPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Core\\Pezza.Core.csproj",
+        "projectPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Core\\Pezza.Core.csproj",
         "packagesPath": "C:\\Users\\vuyisa.baza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Core\\obj\\",
+        "outputPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vuyisa.baza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -306,11 +306,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Core.Contracts\\Pezza.Core.Contracts.csproj": {
-                "projectPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Core.Contracts\\Pezza.Core.Contracts.csproj"
+              "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Core.Contracts\\Pezza.Core.Contracts.csproj": {
+                "projectPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Core.Contracts\\Pezza.Core.Contracts.csproj"
               }
             }
           }

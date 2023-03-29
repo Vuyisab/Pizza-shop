@@ -15,6 +15,7 @@ using Microsoft.OpenApi.Models;
 using Pezza.Core;
 using Pezza.DataAccess;
 using Newtonsoft.Json.Serialization;
+using Microsoft.Extensions.FileProviders;
 
 public class Startup
 {
@@ -56,6 +57,12 @@ public class Startup
         {
             app.UseDeveloperExceptionPage();
         }
+
+        app.UseStaticFiles(new StaticFileOptions
+        {
+            FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(), @"Media")),
+            RequestPath = new PathString("/Media"),
+        });
 
         // Enable middleware to serve generated Swagger as a JSON endpoint.
         app.UseSwagger();

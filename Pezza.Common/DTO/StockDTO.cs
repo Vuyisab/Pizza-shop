@@ -16,5 +16,5 @@ public class StockDTO
 
     public DateTime DateCreated { get; set; }
 
-    public string Comment { get; set; }
+    public string? Comment { get; set; }
 }

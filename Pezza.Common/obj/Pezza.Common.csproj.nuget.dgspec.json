@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Common\\Pezza.Common.csproj": {}
+    "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Common\\Pezza.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Common\\Pezza.Common.csproj": {
+    "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Common\\Pezza.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Common\\Pezza.Common.csproj",
+        "projectUniqueName": "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Common\\Pezza.Common.csproj",
         "projectName": "Pezza.Common",
-        "projectPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Common\\Pezza.Common.csproj",
+        "projectPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Common\\Pezza.Common.csproj",
         "packagesPath": "C:\\Users\\vuyisa.baza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Common\\obj\\",
+        "outputPath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Dotnet\\Pezza\\Pizza-shop\\Pezza.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vuyisa.baza\\AppData\\Roaming\\NuGet\\NuGet.Config",
