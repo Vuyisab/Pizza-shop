@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OZkSwylrovRsSppFqofK6XBLSqQwdEh/ldh/N1xkvPYzifxZRSFpK6XRY0IsgdRTJggKWrHT1Bw94fRlUNw4Cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vuyisa.baza\\UpSkilling\\Pezza\\Pezza.Core.Contracts\\Pezza.Core.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vuyisa.baza\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\vuyisa.baza\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
