@@ -6,7 +6,7 @@ public class Stock
 
     public string Name { get; set; }
 
-    public string UnitOfMeasure { get; set; }
+    public string? UnitOfMeasure { get; set; }
 
     public double? ValueOfMeasure { get; set; }
 
@@ -16,5 +16,5 @@ public class Stock
 
     public DateTime DateCreated { get; set; }
 
-    public string Comment { get; set; }
+    public string? Comment { get; set; }
 }
